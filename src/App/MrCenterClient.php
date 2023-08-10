@@ -19,7 +19,7 @@ class MrCenterClient extends Client
 
 
     /**
-     * 获得检验检查项目列表
+     * 获得检验检查项目列表 
      * @param $body
      * @param $endpoint
      * @param $headerEx
