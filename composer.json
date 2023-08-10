@@ -1,0 +1,20 @@
+{
+    "name": "liqiangchao/middle-office-mr",
+    "description": "对外服务-资源中心",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gupo\\MiddleOfficeMr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liqiangchao"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gupo/middle-office": "dev-main"
+    }
+}
